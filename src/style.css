@@ -1,1 +1,8 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+body {
+  background-color: rgb(246, 246, 246);
+}
+
+.excuse {
+  font-family: "Anton", sans-serif;
+}
